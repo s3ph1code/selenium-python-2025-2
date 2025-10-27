@@ -4,7 +4,7 @@
 
 ### Antes de iniciar, asegúrate de tener instaladas las siguientes herramientas:
     - Navegador Google Chrome actualizado a su última versión (https://www.google.com/intl/es_us/chrome/)
-	- Python (https://www.python.org/downloads/) 
+	- Python (https://www.python.org/downloads/)
 	- Selenium (pip install selenium)
 	- WebDriver para el navegador (Chrome o Firefox)
 	- ChromeDriver (https://googlechromelabs.github.io/chrome-for-testing/#stable)
@@ -16,8 +16,8 @@
 
 ### Para correr los tests, usa el comando:
 	debes correrlo en la terminal o consola de comandos desde la raíz de tu proyecto.
-	- behave features/login.feature 
-	- behave features/shopping_cart.feature 
+	- behave features/login.feature
+	- behave features/shopping_cart.feature
 
 # 🧪 Pruebas Automatizadas con Behave (BDD)
 
@@ -122,3 +122,4 @@ Buscar la película “Inception”, abrir el primer resultado y verificar que e
 - Uso de diferentes tipos de selectores (ID, XPATH, CSS)
 - Validación de texto y valores numéricos
 - Estructuración básica de un flujo de prueba
+
